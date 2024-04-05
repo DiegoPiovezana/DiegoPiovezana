@@ -1,5 +1,5 @@
 <p align="left">
-  <strong><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" width=2.0% height=2.0%> Veja meu perfil em português</strong>
+  <strong><img src="Images\br.png" width=2.0% height=2.0%> Veja meu perfil em português</strong>
   <br>
   <a href="https://github.com/DiegoPiovezana/DiegoPiovezana/blob/main/README_ptbr.md">
     <img src="https://img.shields.io/badge/Português-Clique%20aqui-white.svg" alt="Portuguese" />

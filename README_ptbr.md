@@ -1,6 +1,6 @@
 
 <p align="left">
-  <strong><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png" width=2.0% height=2.0%> View my profile in English</strong>
+  <strong><img src="Images\us.png" width=2.0% height=2.0%> View my profile in English</strong>
   <br>
   <a href="https://github.com/DiegoPiovezana/DiegoPiovezana">
     <img src="https://img.shields.io/badge/English-Click%20here-white.svg" alt="Inglês" />
